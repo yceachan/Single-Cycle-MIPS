@@ -1,7 +1,8 @@
 Read on yeeachan`s doc Web: [https://yceachan.github.io/微体系结构/](https://yceachan.github.io/%E5%BE%AE%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/)
-单周期处理器的数据路径易于构建，而时序需要考虑。
 
 Ref：[实验十一 RV32I单周期CPU — 南京大学 计算机科学与技术系 数字逻辑与计算机组成 课程实验 documentation (nju-projectn.github.io)](https://nju-projectn.github.io/dlco-lecture-note/exp/11.html#cpu)
+
+单周期处理器的数据路径易于构建，而时序需要考虑。
 
 # quickstart
 
